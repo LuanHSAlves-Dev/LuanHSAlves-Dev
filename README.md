@@ -1,8 +1,8 @@
 ## Hello World 👋
 ### Me chamo Luan Alves seja bem vindo ao meu perfil 😎
 
-- 🔭 Hoje estou procurando minha primeira oportunidade 
-- 🌱 Estou estudando Data Science e IAs
+- 🔭 Hoje ém dia estou procurando minha primeira oportunidade 
+- 🌱 Atualmente estudando Data Science e IAs
 
 ![VariableBee GitHub stats](https://github-readme-stats-lhs-projects-bf03df8b.vercel.app/api?username=LuanHSAlves-Dev&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats-lhs-projects-bf03df8b.vercel.app/api/top-langs/?username=LuanHSAlves-Dev&layout=compact&theme=dracula)
